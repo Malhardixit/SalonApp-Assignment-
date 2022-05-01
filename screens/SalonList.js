@@ -105,7 +105,7 @@ const styles = StyleSheet.create({
   txtUser: {
     color: 'black',
     fontSize: 22,
-    fontFamily: 'Poppins-Bold',
+    fontFamily: 'Poppins-SemiBold',
     // fontWeight: '700',
   },
   txtAddress: {
